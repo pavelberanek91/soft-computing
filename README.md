@@ -24,7 +24,7 @@ algoritmické implementace bez použití modulů.
 |13|xx.xx.xx|Bayesovská statistika: definice základních pojmů (rozdělení, apriorní, posteriorní), Bayesova věta a její využití|xxx|
 |14|xx.xx.xx|Bayesovské sítě (BN): grafová reprezentace, distribuce pravděpodobnosti modelu (řetězcové pravidlo), přehled algoritmů učení BN|xxx|
 
-## Rozšiřující lekce
+### Rozšiřující lekce
 Tato tabulka obsahuje odkazy na další užitečné lekce z oblasti IKT.
 |lekce|obsah|video|
 |---|---|---|
