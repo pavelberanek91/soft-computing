@@ -9,7 +9,7 @@ algoritmické implementace bez použití modulů.
 
 |lekce|datum|obsah|video|
 |---|---|---|---|
-|01|xx.xx.xx|Přehled úloh strojového učení: klasifikace, regrese, predikce a oblasti použití|xxx|
+|01|16.02.22|Přehled úloh strojového učení: klasifikace, regrese, predikce a oblasti použití|xxx|
 |02|xx.xx.xx|Rozhodovací stromy: konstrukce, metriky|xxx|
 |03|xx.xx.xx|Metoda podpůrných vektorů (SVM): formulace, soft margin, řešení, použití jader, jádrový trik, klasifikace do více tříd|xxx|
 |04|xx.xx.xx|Metoda podpůrných vektorů (SVM): formulace, soft margin, řešení, použití jader, jádrový trik, klasifikace do více tříd|xxx|
@@ -21,13 +21,6 @@ algoritmické implementace bez použití modulů.
 |10|xx.xx.xx|Fuzzy množina: zavedení, vlastnosti (obor hodnot, výška, nosič, jádro), řezy, příslušnost|xxx|
 |11|xx.xx.xx|Fuzzy množiny a jejich rozšíření: přehled množinových a výrokových operací a jejich vlastností, fuzzy čísla a fuzzy relace|xxx|
 |12|xx.xx.xx|Použití fuzzy logiky: proces fuzzifikace a defuzzifikace, lingvistické proměnné|xxx|
-|13|xx.xx.xx|Bayesovská statistika: definice základních pojmů (rozdělení, apriorní, posteriorní), Bayesova věta a její využití|xxx|
+|13|23.02.22|Bayesovská statistika: definice základních pojmů (rozdělení, apriorní, posteriorní), Bayesova věta a její využití|xxx|
 |14|xx.xx.xx|Bayesovské sítě (BN): grafová reprezentace, distribuce pravděpodobnosti modelu (řetězcové pravidlo), přehled algoritmů učení BN|xxx|
 
-### Rozšiřující lekce
-Tato tabulka obsahuje odkazy na další užitečné lekce z oblasti IKT.
-|lekce|obsah|video|
-|---|---|---|
-|xx|Lorem ipsum|xxx|
-|xx|Lorem ipsum|xxx|
-|xx|Lorem ipsum|xxx|
